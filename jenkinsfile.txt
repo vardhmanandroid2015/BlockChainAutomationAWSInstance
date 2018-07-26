@@ -1,18 +1,18 @@
 pipeline {
 	stages {
-		stage  ('compile stage0') {
+		stage  ('Build Stage') {
 			steps {
 			}
 			
 		}
 		
-		stage  ('compile stage1') {
+		stage  ('Testing stage1') {
 			steps {
 			}
 			
 		}
 		
-		stage  ('compile stage2') {
+		stage  ('Deploy stage2') {
 			steps {
 			}
 			
