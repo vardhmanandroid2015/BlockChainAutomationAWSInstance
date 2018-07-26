@@ -1,0 +1,21 @@
+pipeline {
+	stages {
+		stage  ('compile stage0') {
+			steps {
+			}
+			
+		}
+		
+		stage  ('compile stage1') {
+			steps {
+			}
+			
+		}
+		
+		stage  ('compile stage2') {
+			steps {
+			}
+			
+		}
+	}
+}
