@@ -17,5 +17,11 @@ pipeline {
 			}
 			
 		}
+		
+		stage  ('Deploy Stage3') {
+			steps {
+			}
+			
+		}
 	}
 }
