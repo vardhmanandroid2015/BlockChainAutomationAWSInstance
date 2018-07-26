@@ -1,6 +1,6 @@
 pipeline {
 	stages {
-		stage  ('Build Stage') {
+		stage  ('Build Stage0') {
 			steps {
 			}
 			
