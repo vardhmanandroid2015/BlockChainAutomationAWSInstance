@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 import boto3
+import json
+import configparser
 
 '''
 A python client implementation for AWS
